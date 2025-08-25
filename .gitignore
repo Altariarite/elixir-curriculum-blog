@@ -35,3 +35,9 @@ blog-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Ignore IDE/editor specific files and folders.
+.vscode/
+_build
+.jj
+.lsp
+.clj-kondo
